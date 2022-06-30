@@ -1,0 +1,31 @@
+{
+  "prod1":{
+  "id":"1",
+  "name":"Phone",
+  "Cost":10000,
+  "Desc":"Samsung"
+},
+
+"prod2":{
+  "id":2,
+  "name":"Lipstick",
+  "Cost":2500,
+  "Desc":"MAC"
+},
+
+"prod3":{
+  "id":3,
+  "name":"T-shirt",
+  "Cost":500,
+  "Desc":"Levis"
+},
+
+"prod4":{
+  "id":4,
+  "name":"Jeans",
+  "Cost":3000,
+  "Desc":"Only"
+}
+
+
+}
